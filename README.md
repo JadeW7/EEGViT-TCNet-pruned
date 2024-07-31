@@ -1,6 +1,4 @@
-Outliers
-
-## EEG-Vision Transformer with TCNet on Cleaned Data (EEGViT-TCNet Pruned)
+## EEGViT-TCNet on Cleaned EEGEyeNet Dataset
 
 ## Overview
 EEGViT is a hybrid Vision Transformer (ViT) incorporated with Depthwise Convolution in patch embedding layers. This work is based on 
