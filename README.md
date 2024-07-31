@@ -31,7 +31,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 For other installation details and different cuda versions, visit [pytorch.org](https://pytorch.org/get-started/locally/).
 
-## Remaining Appendix Citations for Literature Review on EEG Data Cleaning Methodologies
+## Remaining Appendix Citations for "Enhancing EEG Data Quality: A Comprehensive Review of Outlier Detection and Cleaning Methods"
 
 - Mayeli, Ahmad, et al. "Automated pipeline for EEG artifact reduction (APPEAR) recorded during fMRI." *Journal of Neural Engineering* 18, no. 4 (2021): 0460b4. Available at: [https://iopscience.iop.org/article/10.1088/1741-2552/ac1037/meta](https://iopscience.iop.org/article/10.1088/1741-2552/ac1037/meta)
 
